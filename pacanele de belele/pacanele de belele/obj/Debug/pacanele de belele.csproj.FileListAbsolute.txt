@@ -1,0 +1,9 @@
+c:\users\andrei\documents\visual studio 2015\Projects\pacanele de belele\pacanele de belele\bin\Debug\pacanele de belele.exe.config
+c:\users\andrei\documents\visual studio 2015\Projects\pacanele de belele\pacanele de belele\bin\Debug\pacanele de belele.exe
+c:\users\andrei\documents\visual studio 2015\Projects\pacanele de belele\pacanele de belele\bin\Debug\pacanele de belele.pdb
+c:\users\andrei\documents\visual studio 2015\Projects\pacanele de belele\pacanele de belele\obj\Debug\pacanele de belele.csprojResolveAssemblyReference.cache
+c:\users\andrei\documents\visual studio 2015\Projects\pacanele de belele\pacanele de belele\obj\Debug\pacanele_de_belele.Form1.resources
+c:\users\andrei\documents\visual studio 2015\Projects\pacanele de belele\pacanele de belele\obj\Debug\pacanele_de_belele.Properties.Resources.resources
+c:\users\andrei\documents\visual studio 2015\Projects\pacanele de belele\pacanele de belele\obj\Debug\pacanele de belele.csproj.GenerateResource.Cache
+c:\users\andrei\documents\visual studio 2015\Projects\pacanele de belele\pacanele de belele\obj\Debug\pacanele de belele.exe
+c:\users\andrei\documents\visual studio 2015\Projects\pacanele de belele\pacanele de belele\obj\Debug\pacanele de belele.pdb
